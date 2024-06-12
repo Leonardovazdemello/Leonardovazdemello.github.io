@@ -1,17 +1,17 @@
 ---
 layout: page
 title: Contato
-permalink: https://henriquealvarenga.github.io/Contato
+permalink: https://Leonardovazdemello.github.io/Contato
 ---
 
 # Telefones do consultório:  
-Celular: (32) 99981-2366 (whatsapp)  
-Fixo:    (32) 3371-7176 
+Celular: (32) ___ (whatsapp)  
+Fixo:    (32) ___ 
 
 # Email:   
-[henriquealvarenga@gmail.com][email-link]
+[ljvmello@gmail.com][email-link]
 # Endereço:  
-Rua Aureliano Mourão, 140  
+Rua Aureliano Mourão, ___  
 Centro   
 São João del Rei - MG  
 Perto da Igreja São Francisco  
