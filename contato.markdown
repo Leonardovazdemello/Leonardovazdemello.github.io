@@ -5,13 +5,13 @@ permalink: https://Leonardovazdemello.github.io/Contato
 ---
 
 # Telefones do consultório:  
-Celular: (32) ___ (whatsapp)  
+Celular: (32) 98844-1638 (whatsapp)  
 Fixo:    (32) ___ 
 
 # Email:   
 [ljvmello@gmail.com][email-link]
 # Endereço:  
-Rua Aureliano Mourão, ___  
+Rua Aureliano Mourão, 153  
 Centro   
 São João del Rei - MG  
 Perto da Igreja São Francisco  
@@ -22,9 +22,9 @@ Perto da Igreja São Francisco
 [instagram][instagram-link]   
 [Linkedin][linkedin-link]  
 
-[instagram-link]: https://www.instagram.com/henriquealvarengadasilva
-[linkedin-link]:  https://www.linkedin.com/in/henriquealvarengasilva
-[email-link]: henriquealvarenga@gmail.com
+[instagram-link]: https://www.instagram.com/drleonardovazneuro
+[linkedin-link]:  https://www.linkedin.com/in/
+[email-link]: ljvmello@gmail.com
 
 
 
