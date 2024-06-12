@@ -1,4 +1,4 @@
-# henriquealvarenga.github.io
-Dr. Henrique Alvarenga, Médico Psiquiatra.
-CRM-MG 31.778
+# Leonardovazdemello.github.io
+Dr. Leonardo Jardim Vaz de Mello, Médico Neurologista.
+CRM-MG _____
 ![Henrique](images/retrato.jpeg)
