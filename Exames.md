@@ -1,12 +1,13 @@
-# Eletromiograma
+# Exames
+
+## Eletromiografia
+
+
+
+## Eletroencefalograma
 
 
 
 
-# Eletroencefalograma
-
-
-
-
-# Polissonografia
+## Polissonografia
 
