@@ -25,4 +25,5 @@ permalink: /publications/
 4. GODOY, D. A. ; MELLO, L. J. V. ; M. Luca ; N. Mario . The myasthenic patient in crisis: an update of the management in Neurointensive Care Unit. Arquivos de Neuro-Psiquiatria (Impresso), v. 71, p. 627-639, 2013. 
 
 5. GODOY, D. A. ; SOLER, C. ; VIDETTA, W. ; FUENZALIDA, L. C. ; PARANHOS, J. ; COSTILLA, M. ; PINERO, G. ; JIBAJA, M. ; MELLO, L. J. V. . Hyperglycemia in nondiabetic patients during the acute phase of stroke. Arquivos de Neuro-Psiquiatria (Impresso), v. 70, p. 134-139, 2012.
-6.  GODOY, D. A. ; MELLO, L. J. V. ; M. Luca ; N. Mario . The myasthenic patient in crisis: an update of the management in Neurointensive Care Unit. Arquivos de Neuro-Psiquiatria (Impresso), v. 71, p. 627-639, 2013. Citações:43|52
+   
+6.  GODOY, D. A. ; MELLO, L. J. V. ; M. Luca ; N. Mario . The myasthenic patient in crisis: an update of the management in Neurointensive Care Unit. Arquivos de Neuro-Psiquiatria (Impresso), v. 71, p. 627-639, 2013.
