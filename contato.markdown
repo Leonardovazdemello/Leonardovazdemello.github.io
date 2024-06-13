@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contato
-permalink: https://Leonardovazdemello.github.io/Contato
+permalink: /contato/
 ---
 
 # Telefones do consultório:  
