@@ -31,6 +31,6 @@ Celular:  (32) 98844-1638  (whatsapp)
 
 
 
-[lattes-link]: http://lattes.cnpq.br/6147640440978297
-[instagram-link]: https://www.instagram.com/henriquealvarengadasilva
-[linkedin-link]:  https://www.linkedin.com/in/henriquealvarengasilva
+[lattes-link]: http://lattes.cnpq.br/0288764410780865
+[instagram-link]: https://www.instagram.com/drleonardovazneuro/
+[linkedin-link]:  https://www.linkedin.com
