@@ -22,9 +22,9 @@ Perto da Igreja São Francisco
 [instagram][instagram-link]   
 [Linkedin][linkedin-link]  
 
-[instagram-link]: https://www.instagram.com/drleonardovazneuro
-[linkedin-link]:  https://www.linkedin.com/in/
-[email-link]: ljvmello@gmail.com
+[instagram-link]: https://www.instagram.com/drleonardovazneuro  
+[linkedin-link]:  https://linkedin.com/in/leonardo-vaz-de-mello-371792129  
+[email-link]: ljvmello@gmail.com  
 
 
 
